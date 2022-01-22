@@ -4,7 +4,7 @@
 
 Submitted by: **Autumn Nguyen**
 
-Time spent: **X** hours spent in total
+Time spent: approximately **6** hours spent in total
 
 ## User Stories
 
